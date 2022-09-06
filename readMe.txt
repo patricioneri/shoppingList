@@ -1,0 +1,2 @@
+Shoppping list created as a project for Winterhack Course. In this app the user can add several item to a shopping list. The user can also click in each item to
+read a detailed description. This app was created with HTML, CSS, JavaScript and Bootstrap.
